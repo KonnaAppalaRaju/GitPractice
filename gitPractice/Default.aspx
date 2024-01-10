@@ -2,6 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
+    <asp:Label ID="lblFirstname" runat="server" Text="Name"></asp:Label>
 
             <asp:TextBox ID="txtFirstname" runat="server"></asp:TextBox>
 
